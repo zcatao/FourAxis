@@ -1,0 +1,1 @@
+"./CtlFourAxis.obj" "./sto_int/sto_int.obj" "./msp430_clock/msp430_clock.obj" "./inv_mpu/inv_mpu.obj" "./int_clk/int_clk.obj" "./i2c/i2c.obj" "./dmp_driver/inv_mpu_dmp_motion_driver.obj" "./bluth/bluth.obj" "./MSP430_IIC/MSP430_IIC.obj" "./HCM5886/HCM5886.obj" "./ESP6288/ESP6288.obj" "./Display1/Display1.obj" "../MSP430_IIC/lnk_msp430f5529.cmd" -l"libmath.a" -l"libc.a" 
